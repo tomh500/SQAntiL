@@ -1,0 +1,14 @@
+name: AntiL
+version: 1.0
+author: Burger
+main: com.example.antil.AntiL
+
+commands:
+  antil:
+    description: AntiL command
+    usage: /antil
+
+permissions:
+  antil.use:
+    description: Use AntiL command
+    default: op
